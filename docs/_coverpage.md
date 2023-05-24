@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sustech-application.com/">
-    <img alt="docsify" src="src/_media/SUSTech_University_Logo.png" height="200">
+    <img alt="docsify" src="src/_media/b3d4e8f666d8f7093bd5f056d6068e2.png" height="200">
   </a>
 </p>
 
