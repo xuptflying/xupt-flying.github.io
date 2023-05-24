@@ -1,6 +1,6 @@
 - 个人申请总结 (120)
 
-  - [通信与信息工程学院(0)](grad-application/computer-science-and-engineering/README.md)
+  - [通信与信息工程学院(0)](grad-application/通信与信息工程学院/README.md)
 
   - [生物医学工程系 (11)](grad-application/biomedical-engineering/README.md)
 
