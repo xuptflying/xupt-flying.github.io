@@ -13,7 +13,7 @@
 
 ## 意见/改进
 
-- 【腾讯文档】南方科技大学飞跃手册意见征集表 https://docs.qq.com/sheet/DVXF2aW1oZENWR2pR
+- 【腾讯文档】西安邮电大学飞跃手册意见征集表 https://docs.qq.com/sheet/DVXF2aW1oZENWR2pR
 
 ## 近期更新
 
