@@ -6,7 +6,7 @@
 
   - [计算机学院(0)](grad-application/计算机学院/README.md)
 
-  - [生物系 (6)](grad-application/biology/README.md)
+  - [自动化学院(0)](grad-application/自动化学院/README.md)
 
   - [力学与航空航天工程系 (8)](grad-application/mechanics-and-aerospace-engineering/README.md)
 
