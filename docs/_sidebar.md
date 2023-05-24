@@ -4,7 +4,7 @@
 
   - [生物医学工程系 (11)](grad-application/biomedical-engineering/README.md)
 
-  - [物理系 (6)](grad-application/physics/README.md)
+  - [计算机学院(0)](grad-application/计算机学院/README.md)
 
   - [生物系 (6)](grad-application/biology/README.md)
 
