@@ -2,7 +2,7 @@
 
   - [通信与信息工程学院(0)](grad-application/通信与信息工程学院/README.md)
 
-  - [生物医学工程系 (11)](grad-application/biomedical-engineering/README.md)
+  - [电子工程学院(0)](grad-application/电子工程学院/README.md)
 
   - [计算机学院(0)](grad-application/计算机学院/README.md)
 
