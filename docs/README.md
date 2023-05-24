@@ -34,7 +34,8 @@
 
 ## 贡献者
 
-<a href="https://github.com/SUSTech-Application/SUSTechapplication/graphs/contributors">
-  <br><img src="https://contributors-img.web.app/image?repo=SUSTech-Application/SUSTechapplication" />
+<a href="https://github.com/BarryGustin/xupt-flying.github.io/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=BarryGustin/xupt-flying.github.io" />
 </a>
+
 
