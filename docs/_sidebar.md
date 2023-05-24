@@ -10,7 +10,7 @@
 
   - [网络空间安全学院(0)](grad-application/网络空间安全学院/README.md)
 
-  - [化学系 (6)](grad-application/chemistry/README.md)
+  - [经济与管理学院(0)](grad-application/经济与管理学院/README.md)
 
   - [地球与空间科学系 (1)](grad-application/earth-and-space-science/README.md)
 
