@@ -2,8 +2,8 @@
 
 - [计算机科学与技术](计算机科学与技术/README.md)
 
-- [软件工程](grad-application/biology/biotechnology/README.md)
+- [软件工程](软件工程/README.md)
 
-- [网络工程](grad-application/biology/bioscience/README.md)
+- [网络工程](网络工程/README.md)
 
-- [数据科学与大数据技术](grad-application/biology/bioscience/README.md)
+- [数据科学与大数据技术](数据科学与大数据技术/README.md)
