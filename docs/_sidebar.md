@@ -14,7 +14,7 @@
 
   - [理学院(0)](grad-application/理学院/README.md)
 
-  - [数学与统计系 (10)](grad-application/math/README.md)
+  - [现代邮政学院(0)](grad-application/现代邮政学院/README.md)
 
   - [机械与能源工程系 (4)](grad-application/mechanical-and-energy-engineering/README.md)
 
