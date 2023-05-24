@@ -8,7 +8,7 @@
 
   - [自动化学院(0)](grad-application/自动化学院/README.md)
 
-  - [力学与航空航天工程系 (8)](grad-application/mechanics-and-aerospace-engineering/README.md)
+  - [网络空间安全学院(0)](grad-application/网络空间安全学院/README.md)
 
   - [化学系 (6)](grad-application/chemistry/README.md)
 
