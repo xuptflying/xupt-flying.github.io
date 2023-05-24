@@ -1,6 +1,6 @@
 ## 计算机学院
 
-- [计算机科学与技术](grad-application/biology/bioinformatics/README.md)
+- [计算机科学与技术](计算机科学与技术/README.md)
 
 - [软件工程](grad-application/biology/biotechnology/README.md)
 
