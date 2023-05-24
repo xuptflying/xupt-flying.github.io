@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://sustech-application.github.io/Application-Book">
-    <img alt="docsify" src="./docs/src/_media/SUSTech_University_Logo.png" height="150">
+  <a href="https://barrygustin.github.io/xupt-flying.github.io/">
+    <img alt="docsify" src="./docs/src/_media/school_logo.png" height="150">
   </a>
 </p>
 
