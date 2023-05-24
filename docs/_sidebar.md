@@ -16,7 +16,7 @@
 
   - [现代邮政学院(0)](grad-application/现代邮政学院/README.md)
 
-  - [机械与能源工程系 (4)](grad-application/mechanical-and-energy-engineering/README.md)
+  - [人文与外国语学院(0)](grad-application/人文与外国语学院/README.md)
 
   - [材料科学与工程系 (9)](grad-application/materials-science-and-engineering/README.md)
 
