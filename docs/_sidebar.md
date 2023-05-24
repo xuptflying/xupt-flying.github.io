@@ -12,7 +12,7 @@
 
   - [经济与管理学院(0)](grad-application/经济与管理学院/README.md)
 
-  - [地球与空间科学系 (1)](grad-application/earth-and-space-science/README.md)
+  - [理学院(0)](grad-application/理学院/README.md)
 
   - [数学与统计系 (10)](grad-application/math/README.md)
 
