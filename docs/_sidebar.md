@@ -19,6 +19,6 @@
   - [人文与外国语学院(0)](grad-application/人文与外国语学院/README.md)
 
   - [数字艺术学院(0)](grad-application/数字艺术学院/README.md)
-
-
+ 
+  - [数字艺术学院(0)](grad-application/rr/README.md)
 
