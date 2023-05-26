@@ -34,8 +34,8 @@
 
 ## 贡献者
 
-<a href="https://github.com/BarryGustin/xupt-flying.github.io/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=BarryGustin/xupt-flying.github.io" />
+<a href="https://github.com/xuptflying/xupt-flying.github.io/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=xuptflying/xupt-flying.github.io" />
 </a>
 
 
