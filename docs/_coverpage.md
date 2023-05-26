@@ -14,5 +14,5 @@
 
 - All Rights Reserved.
 
-[GitHub](https://github.com/BarryGustin/xupt-flying.github.io)
+[GitHub](https://github.com/xuptflying/xupt-flying.github.io)
 [Get Started](#西安邮电大学飞跃手册)
