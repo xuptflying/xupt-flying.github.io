@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://barrygustin.github.io/xupt-flying.github.io/">
+  <a href="https://xuptflying.github.io/xupt-flying.github.io/">
     <img alt="docsify" src="./docs/src/_media/school_logo.png" height="150">
   </a>
 </p>
