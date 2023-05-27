@@ -2,12 +2,18 @@
 
 #### 考研:
 
-To be continued.
 
+
+
+
+
+- [电子信息工程](/19-佚名-考研&就业.md)
 #### 就业:
 
-To be continued.
 
+
+
+- [电子信息工程](/19-佚名-考研&就业.md)
 #### 出国：
 
 To be continued.
