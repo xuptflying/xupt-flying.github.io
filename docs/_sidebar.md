@@ -1,8 +1,8 @@
-- 个人总结 (0)
+- 个人总结 (2)
 
-  - [通信与信息工程学院(0)](grad-application/通信与信息工程学院/README.md)
+  - [通信与信息工程学院(1)](grad-application/通信与信息工程学院/README.md)
 
-  - [电子工程学院(0)](grad-application/电子工程学院/README.md)
+  - [电子工程学院(1)](grad-application/电子工程学院/README.md)
 
   - [计算机学院(0)](grad-application/计算机学院/README.md)
 
