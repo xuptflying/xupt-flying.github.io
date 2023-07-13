@@ -2,7 +2,7 @@
 
 #### 考研:
 
-To be continued.
+- [19级-贾森 西安电子科技大学](grad-application/计算机学院/数据科学与大数据技术/[CN]-19-Jiasen.md)
 
 #### 就业:
 
