@@ -1,6 +1,6 @@
-## 电子工程学院(1)
+## 电子工程学院(2)
 
-- [电子信息工程(0)](grad-application/电子工程学院/电子信息工程/README.md)
+- [电子信息工程(1)](grad-application/电子工程学院/电子信息工程/README.md)
 
 - [电子信息工程（中外合作办学）(1)](grad-application/电子工程学院/电子信息工程（中外合作办学）/README.md)
 
