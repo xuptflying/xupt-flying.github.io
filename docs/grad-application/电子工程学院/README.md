@@ -1,8 +1,8 @@
-## 电子工程学院(3)
+## 电子工程学院(4)
 
 - [电子信息工程(1)](grad-application/电子工程学院/电子信息工程/README.md)
 
-- [电子信息工程（中外合作办学）(2)](grad-application/电子工程学院/电子信息工程（中外合作办学）/README.md)
+- [电子信息工程（中外合作办学）(3)](grad-application/电子工程学院/电子信息工程（中外合作办学）/README.md)
 
 - [电磁场与无线技术(0)](grad-application/电子工程学院/电磁场与无线技术/README.md)
 
