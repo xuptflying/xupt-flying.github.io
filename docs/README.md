@@ -2,14 +2,14 @@
 
 ## 公告
 
-- 请有意愿负责筹划 **2023-Fall** 飞跃手册的同学联系：xuptflying **AT** gmail **DOT** com。
+- 请有意愿负责筹划 **2023-Fall** 飞跃手册的同学联系：xuptflying**wujianrenn@gmail.com**。
 - 支持**实名/匿名**投稿
 - 西邮飞跃手册始创于2023年5月，往届分享请于左侧导航栏查找，以下为更新记录。
 - 如果您对飞跃手册有好一点的建议可以通过邮箱联系我们（联系邮箱在投稿/修改标题下），让我们一起完善飞跃手册！
 
 ## 投稿/修改
 
-- 投稿/修改请联系 xuptflying **AT** gmail **DOT** com。
+- 投稿/修改请联系 xuptflying **wujianrenn@gmail.com**。
 
 ## 飞跃手册是什么？
 
@@ -29,7 +29,7 @@
 
 飞跃手册欢迎**所有的毕业生**分享你们的故事，不限出路、不限水平。
 
-1. 对于没有Git使用背景的大部分同学：请将编辑好的`Word`/`Pages`/`Markdown`文件发送到 xuptflying **AT** gmail **DOT** com ，我们会帮助你上架。
+1. 对于没有Git使用背景的大部分同学：请将编辑好的`Word`/`Pages`/`Markdown`文件发送到 xuptflying **wujianrenn@gmail.com**，我们会帮助你上架。
 2. 如需更新内容，请及时联系我们！
 
 ## 贡献者
