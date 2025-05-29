@@ -1,4 +1,4 @@
-## 通信与信息工程学院(3)
+## 通信与信息工程学院(4)
 
 - [通信工程(0)](grad-application/通信与信息工程学院/通信工程/README.md)
 
@@ -12,6 +12,6 @@
 
 - [电信工程及管理(1)](grad-application/通信与信息工程学院/电信工程及管理/README.md)
 
-- [人工智能(0)](grad-application/通信与信息工程学院/人工智能/README.md)
+- [人工智能(1)](grad-application/通信与信息工程学院/人工智能/README.md)
 
 
