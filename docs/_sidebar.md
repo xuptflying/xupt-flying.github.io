@@ -20,3 +20,13 @@
 
   - [数字艺术学院(0)](grad-application/数字艺术学院/README.md)
 
+- 学习杂谈
+
+  - [考研](grad-application/学习杂谈/考研/README.md)
+
+  - [就业](grad-application/学习杂谈/就业/README.md)
+
+  - [出国](grad-application/学习杂谈/出国/README.md)
+
+  - [考公](grad-application/学习杂谈/考公/README.md)
+
