@@ -56,7 +56,7 @@
 
 |  实验室微信公众号   | 我的个人公众号  |
 |  ----  | ----  |
-| ![alt text](image.png)  | ![alt text](image-1.png) |
+| ![alt text](image_EPI.png)  | ![alt text](image_personal_wujianren.png) |
 
 
 ## 写在最后
