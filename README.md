@@ -17,6 +17,9 @@
 
 希望可以记录下更多西邮学子的高光时刻，被更多人看到！
 
+## 飞跃手册链接
+https://xuptflying.github.io/xupt-flying.github.io/#/
+
 ### Contributing
 
 - Fork it!
