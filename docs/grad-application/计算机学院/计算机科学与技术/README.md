@@ -2,7 +2,7 @@
 
 #### 考研:
 
-- [21级-胡宇腾 字节](grad-application/计算机学院/计算机科学与技术/[CN]-21-HuYuteng.md)
+- [21级-胡宇腾 西北大学](grad-application/计算机学院/计算机科学与技术/[CN]-21-HuYuteng.md)
 
 #### 就业:
 
