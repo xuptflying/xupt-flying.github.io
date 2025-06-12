@@ -1,6 +1,6 @@
-## 通信与信息工程学院(4)
+## 通信与信息工程学院(5)
 
-- [通信工程(0)](grad-application/通信与信息工程学院/通信工程/README.md)
+- [通信工程(1)](grad-application/通信与信息工程学院/通信工程/README.md)
 
 - [信息工程(2)](grad-application/通信与信息工程学院/信息工程/README.md)
 
