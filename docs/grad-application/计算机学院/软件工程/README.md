@@ -12,9 +12,6 @@ To be continued.
 
 To be continued.
 
-#### 保研：
-
-To be continued.
 
 #### 考公：
 
